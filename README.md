@@ -1,5 +1,5 @@
 # Leaflet.FartZoomPan
-a map that farts
+a map that farts. All credit goes to the brilliant [fartJS](https://github.com/theonion/fartscroll.js) from The Onion.
 
 Demo:
 https://ubergesundheit.github.io/Leaflet.FartZoomPan/
