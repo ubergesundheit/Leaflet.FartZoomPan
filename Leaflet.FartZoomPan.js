@@ -1,4 +1,4 @@
-var Leaflet.FartZoomPan = (function () {
+var FartZoomPan = (function () {
     var mp3 = {
       prefix: "data:audio/mp3;base64,",
       sound: [
