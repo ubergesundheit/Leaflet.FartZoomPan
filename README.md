@@ -2,7 +2,7 @@
 a map that farts. All credit goes to the brilliant [fartJS](https://github.com/theonion/fartscroll.js) from The Onion.
 
 Demo:
-https://ubergesundheit.github.io/Leaflet.FartZoomPan/
+http://ubergesundheit.github.io/Leaflet.FartZoomPan/
 
 Usage:
 `FartZoomPan().addTo(map);`
